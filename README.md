@@ -1,7 +1,16 @@
-# Voxel_Net
-Just to check the Docker
+# Architecture of ML_Ops with Deep Learning Inference & ROS Architecture
+![Architecture of ML_Ops with Deep Learning Inference & ROS Architecture](./assets/title.jpg)
 
-# Steps to implement:
+## Introduction:
+
+![Architecture of ML_Ops with Deep Learning Inference & ROS Architecture](./assets/workflow.jpg)
+
+This project is to develop a ML-Ops implementation with deep learning model sfa3d and inference with ROS (Robotic Operating System).
+
+## Usage:
+To Implement this model:
+
+### Steps to implement:
 
 1. Create docker image
 ```
